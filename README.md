@@ -19,7 +19,7 @@ porta -> [8000/agenda](http://127.0.0.1:8000/admin) -para utilizar a interface e
 
  * Python
  * Django
- * SQLite2
+ * SQLite3
  
 Bora Conectar
 [Meu LinkedIn](https://www.linkedin.com/in/4lex/)
