@@ -7,7 +7,7 @@ ministrado por [Rafael Galeani](https://www.linkedin.com/in/rafael-galleani/) Py
 
 ## clone o repositório 
 
-no terminal use o comando `git clone https://github.com/4lexRossi/Meet-Manager.git`
+no terminal use o comando `git clone https://github.com/4lexRossi/agenda.git`
 
 ### Execute o arquivo manage.py no Pycharm vai abrir no localhost:
 
@@ -31,4 +31,9 @@ Bora Conectar
 >![](https://imgur.com/4dDCcjd.jpg)
 
 >![](https://imgur.com/GKkEo7j.jpg)
+
+
+## referencias
+[Django](https://docs.djangoproject.com/en/3.0/)
+[Python](https://python.org.br/)
 
