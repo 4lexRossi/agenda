@@ -1,7 +1,7 @@
 <h1 align="center">Agenda de Eventos</h1>
 
 Esse repo é um curso em Python e Django na plataforma da [Digital Innovation One](https://digitalinnovation.one/sign-up?ref=QFX2ZVP4RU)
-ministrado por Rafael Galeani [Rafael Galeani](https://www.linkedin.com/in/rafael-galleani/) Python Developer
+ministrado por [Rafael Galeani](https://www.linkedin.com/in/rafael-galleani/) Python Developer
 
 ![](https://img.shields.io/github/stars/4lexRossi/agenda.svg) ![](https://img.shields.io/github/forks/4lexRossi/agenda.svg) ![](https://img.shields.io/github/issues/4lexRossi/agenda.svg)
 
